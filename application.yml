@@ -1,6 +1,6 @@
 spring:
  appliaction:
-   name : config-defalut
+   name : config-Defalut
 eureka:
 client:
 register-with-eureka: true
